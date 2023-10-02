@@ -1,0 +1,95 @@
+{
+    "filmes": [
+      {
+        "nome": "Titanic",
+        "ano_lancamento": 1997,
+        "genero": "Drama/Romance",
+        "classificacao_indicativa": "14 anos",
+        "avaliacao_IMDB": 7.8,
+        "pais_origem": "Estados Unidos",
+        "sinopse": "Uma história de amor épica que se desenrola a bordo do RMS Titanic durante sua fatídica viagem inaugural."
+      },
+      {
+        "nome": "Avatar",
+        "ano_lancamento": 2009,
+        "genero": "Ação/Aventura",
+        "classificacao_indicativa": "12 anos",
+        "avaliacao_IMDB": 7.8,
+        "pais_origem": "Estados Unidos",
+        "sinopse": "No ano de 2154, um ex-fuzileiro naval é enviado a Pandora, um planeta alienígena, como parte de um programa de mineração e acaba se envolvendo em um conflito entre humanos e os habitantes nativos."
+      },
+      {
+        "nome": "O Poderoso Chefão",
+        "ano_lancamento": 1972,
+        "genero": "Crime/Drama",
+        "classificacao_indicativa": "16 anos",
+        "avaliacao_IMDB": 9.2,
+        "pais_origem": "Estados Unidos",
+        "sinopse": "A história da família Corleone, uma das mais poderosas da máfia italiana nos Estados Unidos, e a ascensão de Michael Corleone ao poder."
+      },
+      {
+        "nome": "Vingadores: Ultimato",
+        "ano_lancamento": 2019,
+        "genero": "Ação/Aventura",
+        "classificacao_indicativa": "12 anos",
+        "avaliacao_IMDB": 8.4,
+        "pais_origem": "Estados Unidos",
+        "sinopse": "Os Vingadores se reúnem para tentar reverter as ações de Thanos e restaurar o equilíbrio no universo."
+      },
+      {
+        "nome": "A Origem",
+        "ano_lancamento": 2010,
+        "genero": "Ficção Científica/Ação",
+        "classificacao_indicativa": "14 anos",
+        "avaliacao_IMDB": 8.8,
+        "pais_origem": "Estados Unidos",
+        "sinopse": "Um grupo de ladrões especializados entra nos sonhos de suas vítimas para roubar informações valiosas."
+      },
+      {
+        "nome": "Interestelar",
+        "ano_lancamento": 2014,
+        "genero": "Ficção Científica/Aventura",
+        "classificacao_indicativa": "12 anos",
+        "avaliacao_IMDB": 8.6,
+        "pais_origem": "Estados Unidos",
+        "sinopse": "Um grupo de astronautas viaja através de um buraco de minhoca em busca de um novo lar para a humanidade, enquanto enfrentam desafios cósmicos."
+      },
+      {
+        "nome": "O Senhor dos Anéis: O Retorno do Rei",
+        "ano_lancamento": 2003,
+        "genero": "Aventura/Fantasia",
+        "classificacao_indicativa": "12 anos",
+        "avaliacao_IMDB": 8.9,
+        "pais_origem": "Estados Unidos/Nova Zelândia",
+        "sinopse": "A última batalha pela Terra Média se desenrola enquanto Frodo e Sam continuam sua jornada para destruir o Um Anel."
+      },
+      {
+        "nome": "Matrix",
+        "ano_lancamento": 1999,
+        "genero": "Ficção Científica/Ação",
+        "classificacao_indicativa": "14 anos",
+        "avaliacao_IMDB": 8.7,
+        "pais_origem": "Estados Unidos",
+        "sinopse": "Um hacker descobre a verdade sobre a realidade humana e se envolve em uma rebelião contra máquinas inteligentes."
+      },
+      {
+        "nome": "O Labirinto do Fauno",
+        "ano_lancamento": 2006,
+        "genero": "Fantasia/Drama",
+        "classificacao_indicativa": "16 anos",
+        "avaliacao_IMDB": 8.2,
+        "pais_origem": "Espanha/México",
+        "sinopse": "Uma jovem grávida escapa para um mundo de fantasia durante a Guerra Civil Espanhola."
+      },
+      {
+        "nome": "Gladiador",
+        "ano_lancamento": 2000,
+        "genero": "Ação/Drama",
+        "classificacao_indicativa": "16 anos",
+        "avaliacao_IMDB": 8.5,
+        "pais_origem": "Estados Unidos/Reino Unido",
+        "sinopse": "Um general romano é traído e forçado a se tornar um gladiador, buscando vingança contra o imperador corrupto."
+      }
+    ]
+  }
+  
